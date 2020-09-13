@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=K3oV3j8zV44&list=PLWd_VnthxxLeRdaga093nbR64dALpbPwI&index=7
+
 # cliente
 
 ## Project setup
